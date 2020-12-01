@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		C587DC04257643B600CEAC2C /* leapyeardetector */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leapyeardetector; sourceTree = BUILT_PRODUCTS_DIR; };
+		C587DC04257643B600CEAC2C /* LearningSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearningSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		C587DC07257643B600CEAC2C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		C587DC05257643B600CEAC2C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C587DC04257643B600CEAC2C /* leapyeardetector */,
+				C587DC04257643B600CEAC2C /* LearningSwift */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C587DC03257643B600CEAC2C /* leapyeardetector */ = {
+		C587DC03257643B600CEAC2C /* LearningSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C587DC0B257643B600CEAC2C /* Build configuration list for PBXNativeTarget "leapyeardetector" */;
+			buildConfigurationList = C587DC0B257643B600CEAC2C /* Build configuration list for PBXNativeTarget "LearningSwift" */;
 			buildPhases = (
 				C587DC00257643B600CEAC2C /* Sources */,
 				C587DC01257643B600CEAC2C /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = leapyeardetector;
+			name = LearningSwift;
 			productName = leapyeardetector;
-			productReference = C587DC04257643B600CEAC2C /* leapyeardetector */;
+			productReference = C587DC04257643B600CEAC2C /* LearningSwift */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C587DBFF257643B600CEAC2C /* Build configuration list for PBXProject "leapyeardetector" */;
+			buildConfigurationList = C587DBFF257643B600CEAC2C /* Build configuration list for PBXProject "LearningSwift" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C587DC03257643B600CEAC2C /* leapyeardetector */,
+				C587DC03257643B600CEAC2C /* LearningSwift */,
 			);
 		};
 /* End PBXProject section */
@@ -262,7 +262,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C587DBFF257643B600CEAC2C /* Build configuration list for PBXProject "leapyeardetector" */ = {
+		C587DBFF257643B600CEAC2C /* Build configuration list for PBXProject "LearningSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C587DC09257643B600CEAC2C /* Debug */,
@@ -271,7 +271,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C587DC0B257643B600CEAC2C /* Build configuration list for PBXNativeTarget "leapyeardetector" */ = {
+		C587DC0B257643B600CEAC2C /* Build configuration list for PBXNativeTarget "LearningSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C587DC0C257643B600CEAC2C /* Debug */,
